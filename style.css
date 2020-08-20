@@ -1,0 +1,29 @@
+.container{
+position: relative;
+text-align:center;
+}
+.top_right{
+position:absolute;
+top:18px;
+right:10px;
+}
+.top_left{
+position:absolute;
+top:18px;
+left:10px;
+}
+.bottom_right{
+position:absolute;
+bottom:18px;
+right:10px;
+}
+.bottom_left{
+position:absolute;
+bottom:18px;
+left:10px;
+}
+.center{
+position:absolute;
+top: 50%;
+right:50%;
+}
